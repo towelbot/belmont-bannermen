@@ -5,58 +5,28 @@
 /*################# Customs ################*/
 
 #navbarNav {
-  /* background-color: #28b220; */
+  /* background-color: #341C09; */
 }
 
 div.jumbotron {
-  background-color: #20b2aa;
-  background-image: url(Play4PP_SocialMedia_2018/Logo/Background_Teal.png);
-}
-
-div.gameOver {
-  /* background-color: #20b2aa; */
-  margin-left: 15%;
-  margin-right: 15%;
-  background-image: url(Play4PP_SocialMedia_2018/Logo/Background_Pink.png);
+  background-color: #236AB9;
+  font-family: 'Gravitas One', cursive;
+  color: #FC7307;
 }
 
 div.container-fluid {
-  /* background-color: #aa20b2; */
-}
-
-.carouselContainer {
-  padding-left: 5%;
-  padding-right: 5%;
-}
-
-.freebirdFormviewerViewFormBanner, .freebirdHeaderMast {
-  height: 50px;
-}
-
-#contact-jumbotron {
-    margin-bottom: 0;
-}
-
-.contactSubmit {
-  margin-left: 34px;
+  padding: 15px;
+   background-color: #D4E4F7;
 }
 
 .jumbotron, .jumbotron-fluid {
-  margin-bottom: 16px;
+  margin-bottom: 0px;
   padding: 32px;
 }
 
 .pa-widget-gallery {
   width:100%;
   height:600px;
-}
-
-div.googleForm {
-  text-align: left;
-  overflow: hidden;
-  margin: 10%;
-  padding-top: 0;
-  margin-top: 0;
 }
 
 div.framePic {
@@ -110,9 +80,6 @@ div.box {
   text-align: center;
   margin: 5px;
   padding: 36px 24px 40px 24px;
-  background-color: #42ddd4;
-  background-image: url(Play4PP_SocialMedia_2018/Logo/Background_Teal.png);
-
   box-shadow: 0 0 0 1px rgba(0,0,0,.15), 0 2px 3px 0 rgba(0,0,0,.1);
   border-radius: 7px;
 }
@@ -122,7 +89,6 @@ div.icon {
 }
 
 .bg-dark {
-  background-image: url(Play4PP_SocialMedia_2018/Logo/Background_DarkTeal.png);
 }
 
 div.aboutText {
@@ -157,16 +123,14 @@ footer.footish ul li a {
 
 
 footer.footish {
-  background-color: #20b2aa;
-  background-image: url(Play4PP_SocialMedia_2018/Logo/Background_Teal.png);
+  background-color: #341C09;
   padding-left: 10%;
   padding-top: 15px;
   font-family: 'IBM Plex Sans', sans-serif;
 }
 
 footer.footish h3 {
-
-  color: white;
+  color: #D4E4F7;
   /* font-size: 35px; */
 }
 
@@ -177,7 +141,7 @@ footer.footish ul {
 }
 
 footer.footish ul li a {
-  color: rgba(255,255,255,.5);
+  color: #236AB9;
   font-size: 18px;
   line-height: 1.5;
   display: block;
@@ -186,7 +150,7 @@ footer.footish ul li a {
 
 footer.footish ul li a:hover {
   /* background-color: #0080ff; */
-  color: rgba(255,255,255,.75);
+  color: #D4E4F7;
 }
 
 @media screen and (max-width: 990px) {
