@@ -158,3 +158,9 @@ footer.footish ul li a:hover {
     height: 300px;
   }
 }
+
+@media screen and (max-width: 515px) {
+  #ohJumboOne {
+  font-size: 2rem;
+}
+}
